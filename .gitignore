@@ -2,8 +2,8 @@
 node_modules
 /.pnp
 .pnp.js
-/pages/api/stripe.js
-/lib/getStripe.js
+# /pages/api/stripe.js
+# /lib/getStripe.js
 
 # testing
 /coverage
